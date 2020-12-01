@@ -1,3 +1,4 @@
 {
-  "image": "cypress/included:6.0.1"
+  "image": "cypress/included:6.0.1",
+  "forwardPorts": [5000]
 }
